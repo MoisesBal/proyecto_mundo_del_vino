@@ -33,7 +33,55 @@
 </urlset>
 
 <url>
+<loc>http://www.cepas.html/ </loc>
+ <lastmod>2005-01-01 </lastmod>
+<changefreq>monthly </changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
+
+<url>
+<loc>http://www.enologia.html/ </loc>
+ <lastmod>2005-01-01 </lastmod>
+<changefreq>monthly </changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
+
+<url>
+<loc>http://www.enologos.html/ </loc>
+ <lastmod>2005-01-01 </lastmod>
+<changefreq>monthly </changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
+
+<url>
 <loc>http://www.vinos.html/ </loc>
+ <lastmod>2005-01-01 </lastmod>
+<changefreq>monthly </changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
+
+<url>
+<loc>http://www.viñasargentinas.html/ </loc>
+ <lastmod>2005-01-01 </lastmod>
+<changefreq>monthly </changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
+
+<url>
+<loc>http://www.viñaschilenas.html/ </loc>
+ <lastmod>2005-01-01 </lastmod>
+<changefreq>monthly </changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
+
+<url>
+<loc>http://www.reservas.html/ </loc>
  <lastmod>2005-01-01 </lastmod>
 <changefreq>monthly </changefreq>
 <priority>0.7</priority>
